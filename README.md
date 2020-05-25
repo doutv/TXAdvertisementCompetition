@@ -34,12 +34,12 @@ id、广告主行业 id 等），以及该用户当天点击该广告的次数�
   + age [1,10]
   + gender [1,2]
 + ad.csv
-  + creative_id
-  + ad_id
+  + creative_id 广告素材id
+  + ad_id 素材所属的广告id
   + product_id
-  + product_category
+  + product_category 产品类别id
   + advertiser_id
-  + industry
+  + industry 广告主所属行业的id
 
 + submission.csv
   + user_id
