@@ -5,6 +5,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/test
+/train_preliminary
+/.vscode
+/test.py
+/tensorflow.ipynb
+/test.ipynb
+/tensorflow[1-9].ipynb
+extract_attr.py
+extract_attribute.ipynb
 
 # C extensions
 *.so
