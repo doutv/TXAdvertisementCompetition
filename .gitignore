@@ -16,6 +16,7 @@ extract_attr.py
 extract_attribute.ipynb
 *.txt
 *.npy
+/*.ipynb
 
 # C extensions
 *.so
