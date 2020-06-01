@@ -12,6 +12,8 @@ __pycache__/
 /tensorflow[1-9].ipynb
 extract_attr.py
 extract_attribute.ipynb
+*.txt
+*.npy
 
 # C extensions
 *.so
