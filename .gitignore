@@ -17,6 +17,7 @@ extract_attribute.ipynb
 *.txt
 *.npy
 /*.ipynb
+./version/download\ train\ data.ipynb
 
 # C extensions
 *.so
